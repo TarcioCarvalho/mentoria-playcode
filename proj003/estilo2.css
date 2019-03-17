@@ -1,0 +1,56 @@
+*{
+    padding: 0;
+    margin: 0;
+    list-style: none;
+}
+
+body{
+    font-family: 'roboto', sans-serif;
+    background-color: #745CC1;
+}
+
+.logo img{
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 50px;
+}
+.acesso input, button, .logo img{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.acesso input{
+    margin: 50px;
+    background-color: transparent;
+    border-color: transparent;
+    border-bottom: 1px solid #fff;
+    color: #fff;
+    width: 247px;
+    font-size: 18px;
+    font-weight: 300;
+    margin-left: auto;
+    margin-right: auto;
+
+}
+
+button{
+    border: none;
+    font-size: 20px;
+    background-color: #fff;
+    width: 247px;
+    padding: 14px 0px 14px 0px;
+    border-radius: 35px;
+    box-shadow: 0px 2px 3px #000;
+    text-transform: uppercase;
+    font-weight: 500;
+
+}
+
+a{
+    display: block;
+    margin-top: 5px;
+    text-align: center;
+    color:#fff;
+    text-decoration: none;
+    text-shadow: 1px 1px 2px #000;
