@@ -17,12 +17,6 @@ https://www.w3schools.com/jsref/met_win_alert.asp
     Bom dia Bia, caso o nome informado seja Bia.
 *******************************************************************************/
 
-function typeName(){
-    let nome = prompt("Digite seu nome", "");
-    if (nome != null){
-        document.getElementById("spec_spec4").innerHTML;
-        alert("Bom dia" + nome);
-
-    }
-
-} 
+var nome = prompt("Digite seu nome", "Escreva seu nome aqui");
+    document.getElementById("demo").innerHTML;
+    alert("Bom dia" + nome);
